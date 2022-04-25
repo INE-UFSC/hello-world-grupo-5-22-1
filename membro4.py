@@ -1,0 +1,2 @@
+def hello():
+	return "Oi, meu nome é Lucas Davi, tenho 19 anos, gosto de games, esportes (futebol, volei) e animes. Não tenho muita experiência prévia, mas minha facilidade com inglês me ajuda a entender algumas coisas, espero gostar muito da disciplina e que até o final do semestre eu tenha o conhecimento suficiente pra conseguir uma vaga de estágio em algum lugar." #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
